@@ -1,2 +1,2 @@
-# My-Projects
-Simple Projects and Tasks using HTML- CSS - JS..and other simple framework like bootstrap-jqurey
+# My-Project
+Simple Project using HTML- CSS - JS..
